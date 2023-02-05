@@ -127,6 +127,7 @@ aside img {
   }
   aside {
     grid-column: 1/4;
+    position: relative;
   }
   
 }
@@ -143,5 +144,6 @@ aside img {
   }
   aside {
     grid-column: 1/4;
+    position: relative;
   }
 }
